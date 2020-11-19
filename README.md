@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jabalov" alt="jabalov" /></a> </p>
 
-- 🌱 I’m currently learning **.NET Fundmentals**
+- 🌱 I’m currently learning **.NET Fundmentals, Data Analysis (Statistical, Feature Engineering) and more Theoritical topics.**
 
 - 📫 How to reach me **moh.aboajabl@gmail.com**
 
