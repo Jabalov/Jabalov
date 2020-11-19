@@ -12,7 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammed abo-jabal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mohammed abo-jabal" height="30" width="40" /></a>
-<a href="https://codesandbox.com/muhammed abojabal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="muhammed abojabal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jabalov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="jabalov" height="30" width="40" /></a>
 </p>
 
