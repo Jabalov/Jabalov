@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Abo Jabal</h1>
-<h3 align="center">A Fresh Graduate Computer Engineer, Passionate about Software Development and Data Analytics.</h3>
+<h3 align="center">A Software Engineer, Passionate about Software Development and Data Analytics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jabalov&label=Profile%20views&color=0e75b6&style=flat" alt="jabalov" /> </p>
 
