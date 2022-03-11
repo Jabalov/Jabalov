@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Abo Jabal</h1>
-<h3 align="center">A Software Engineer, Passionate about Software Development and Data Analytics.</h3>
+<h3 align="center">A Software Engineer, Passionate about Data Science and ML.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jabalov&label=Profile%20views&color=0e75b6&style=flat" alt="jabalov" /> </p>
 
@@ -16,5 +16,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jabalov&show_icons=true&locale=en&layout=compact" alt="jabalov" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jabalov&show_icons=true&locale=en" alt="jabalov" /></p>
